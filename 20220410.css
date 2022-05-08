@@ -1,0 +1,26 @@
+/* .container {
+  border: 1px solid red;
+} */
+/* .mytitle1 {
+  font-size: 30px;
+  text-shadow: 10px 10px 10px black;
+} */
+.mytitle2 {
+  font-size: 20px;
+  
+}
+.color {
+  color: black;
+}
+.color2 {
+  text-shadow: 10px 10px 10px black;
+}
+h2.post-title {
+  margin-top: 50px;
+}
+.navbar-brand {
+  font-size: 30px;
+}
+.navbar-nav {
+  font-size: 50px;
+}
